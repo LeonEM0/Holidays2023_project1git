@@ -1,0 +1,16 @@
+AutoAprendizaje Git 
+
+
+-pwd to know where i am*
+
+-mkdir is used to create a folder*
+
+-What is an IDE with example?
+An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently.
+
+clear-limmpiar consola
+
+git init 
+
+The ls command lists the current directory contents and by default will not show hidden files.
+
